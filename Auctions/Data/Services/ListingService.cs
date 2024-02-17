@@ -34,4 +34,9 @@ public class ListingService : IListingsService
             .FirstOrDefaultAsync(m => m.Id == id);
         return listing;
     }
+
+    public async Task SaveChanges()
+    {
+        await _context.SaveChangesAsync();
+    }
 }

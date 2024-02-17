@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\Images\\photo_2024-02-16_19-04-26.jpg"
     },
     {
+      "Id": "C:\\Users\\dimap\\RiderProjects\\AuctionsMine\\Auctions\\wwwroot\\Images\\proof.jpg",
+      "PackagePath": "staticwebassets\\Images\\proof.jpg"
+    },
+    {
       "Id": "C:\\Users\\dimap\\RiderProjects\\AuctionsMine\\Auctions\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

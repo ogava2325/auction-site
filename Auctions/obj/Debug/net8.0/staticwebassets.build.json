@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3CLup9VJktPH9ea+RAn6UdSnCq1wzVNdhlP42OkqjAo=",
+  "Hash": "vLbDlAKkdjACFr5cI8Qn46ADjMZqELXfe9he6/XrDjE=",
   "Source": "Auctions",
   "BasePath": "_content/Auctions",
   "Mode": "Default",
@@ -1288,6 +1288,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\photo_2024-02-16_19-04-26.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\dimap\\RiderProjects\\AuctionsMine\\Auctions\\wwwroot\\Images\\proof.jpg",
+      "SourceId": "Auctions",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dimap\\RiderProjects\\AuctionsMine\\Auctions\\wwwroot\\",
+      "BasePath": "_content/Auctions",
+      "RelativePath": "Images/proof.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\proof.jpg"
     },
     {
       "Identity": "C:\\Users\\dimap\\RiderProjects\\AuctionsMine\\Auctions\\wwwroot\\js\\site.js",

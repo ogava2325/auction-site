@@ -15,8 +15,34 @@ html {
 html {
   position: relative;
   min-height: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 body {
   margin-bottom: 60px;
+  padding: 10px;
+  background-color: rgb(229, 224, 226);
+}
+
+.nav {
+  background-color: rgba(138, 129, 133, 0.6);
+  border: 1px solid black;
+  
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
