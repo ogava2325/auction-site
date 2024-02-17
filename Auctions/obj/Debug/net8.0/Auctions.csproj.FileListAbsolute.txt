@@ -574,3 +574,4 @@ C:\Users\dimap\RiderProjects\AuctionsMine\Auctions\obj\Debug\net8.0\refint\Aucti
 C:\Users\dimap\RiderProjects\AuctionsMine\Auctions\obj\Debug\net8.0\Auctions.pdb
 C:\Users\dimap\RiderProjects\AuctionsMine\Auctions\obj\Debug\net8.0\Auctions.genruntimeconfig.cache
 C:\Users\dimap\RiderProjects\AuctionsMine\Auctions\obj\Debug\net8.0\ref\Auctions.dll
+C:\Users\dimap\RiderProjects\AuctionsMine\Auctions\obj\Debug\net8.0\Auctions.sourcelink.json
